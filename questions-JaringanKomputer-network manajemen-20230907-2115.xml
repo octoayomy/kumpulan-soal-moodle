@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text><![CDATA[$course$/top/Jaringan Komputer/MANAJEMEN & BENCHMARKING]]></text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text><![CDATA[$course$/top/Jaringan Komputer/MANAJEMEN & BENCHMARKING/network manajemen]]></text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 2970  -->
+  <question type="multichoice">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Contoh aplikasi yang bukan aplikasi network manajemen adalah:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/OpenNMS" title="OpenNMS">OpenNMS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NAGIOS" title="NAGIOS">NAGIOS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Icinga" title="Icinga">Icinga</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Cacti" title="Cacti">Cacti</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NeDi" title="NeDi">NeDi</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Observium" title="Observium">Observium</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Zabbix" title="Zabbix">Zabbix</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>postfix<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2971  -->
+  <question type="multichoice">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Contoh aplikasi yang bukan aplikasi network manajemen adalah:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/OpenNMS" title="OpenNMS">OpenNMS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NAGIOS" title="NAGIOS">NAGIOS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Icinga" title="Icinga">Icinga</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Cacti" title="Cacti">Cacti</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NeDi" title="NeDi">NeDi</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Observium" title="Observium">Observium</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Zabbix" title="Zabbix">Zabbix</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>dovecot</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2972  -->
+  <question type="multichoice">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Contoh aplikasi yang bukan aplikasi network manajemen adalah:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/OpenNMS" title="OpenNMS">OpenNMS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NAGIOS" title="NAGIOS">NAGIOS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Icinga" title="Icinga">Icinga</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Cacti" title="Cacti">Cacti</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NeDi" title="NeDi">NeDi</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Observium" title="Observium">Observium</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Zabbix" title="Zabbix">Zabbix</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>netstat<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2973  -->
+  <question type="multichoice">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Contoh aplikasi yang bukan aplikasi network manajemen adalah:<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/OpenNMS" title="OpenNMS">OpenNMS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NAGIOS" title="NAGIOS">NAGIOS</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Icinga" title="Icinga">Icinga</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Cacti" title="Cacti">Cacti</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/NeDi" title="NeDi">NeDi</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Observium" title="Observium">Observium</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p><a href="http://opensource.telkomspeedy.com/wiki/index.php/Zabbix" title="Zabbix">Zabbix</a></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>netmon<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2974  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Observium menggabungkan sistem dan jaringan monitoring dengan kinerja 
+trending. Ini menggunakan discovery statis dan otomatis untuk 
+mengidentifikasi server dan perangkat jaringan, memanfaatkan berbagai 
+metode pemantauan, dan dapat dikonfigurasi untuk melacak metrik apa saja
+ yang tersedia. Web UI sangat bersih, dipikirkan dengan baik, dan mudah 
+dinavigasi.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2975  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>NeDi mungkin tidak terkenal seperti aplikasi network manajemen lainnya, tapi NeDi adalah solusi yang bagus untuk melacak perangkat di dalam jaringan. Ini terus berjalan melalui infrastruktur jaringan dan katalog perangkat, mencatat segala sesuatu yang dinemukan. NeDi dapat menyediakan lokasi perangkat apapun, serta sejarah lokasi perangkat tersebut.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2976  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>NeDi dapat digunakan untuk mencari perangkat yang dicuri atau hilang dengan memberitahu anda jika perangkat tersebut muncul kembali pada jaringan. Ia bahkan bisa menampilkan semua koneksi yang dikenal dan ditemukan pada peta, yang menunjukkan bagaimana setiap interkoneksi jaringan ditata, sampai ke tingkat port fisik.<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2977  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Zabbix memonitor server dan jaringan dengan tool yang banyak. Ada agen 
+Zabbix untuk sistem operasi, atau anda dapat menggunakan cek pasif atau 
+eksternal, termasuk SNMP untuk memonitor host dan perangkat jaringan. 
+Anda juga akan menemukan fasilitas peringatan yang extensif dan 
+notifikasi, dan Web UI sangat disesuaikan yang dapat disesuaikan dengan 
+berbagai display. Selain itu, Zabbix memiliki alat khusus yang memantau 
+tumpukan aplikasi Web dan hypervisors virtualisasi.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2978  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Zabbix juga dapat menghasilkan diagram interkoneksi logis yang merinci 
+bagaimana objek tertentu yang dipantau saling berhubungan. Peta ini 
+dapat disesuaikan, dan peta dapat dibuat untuk kelompok perangkat dan 
+host yang dipantau.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2979  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Zabbiks juga dapat menghasilkan diagram interkoneksi logis yang merinci 
+bagaimana objek tertentu yang dipantau saling berhubungan. Peta ini 
+dapat disesuaikan, dan peta dapat dibuat untuk kelompok perangkat dan 
+host yang dipantau.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2980  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Sebuah <strong class="selflink">Network Management System</strong> (<a href="http://opensource.telkomspeedy.com/wiki/index.php/NMS" title="NMS">NMS</a>) adalah kombinasi dari <a href="http://opensource.telkomspeedy.com/wiki/index.php/Hardware" title="Hardware">hardware</a> dan <a href="http://opensource.telkomspeedy.com/wiki/index.php/Software" title="Software">software</a> yang digunakan untuk memonitor dan mengatur jaringan.
+</p><p>Setiap elemen jaringan di jaringan akan dikelola oleh sebuah elemen sistem manajemen.
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2981  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Sebuah <strong class="selflink">Network Management System</strong> (<a href="http://opensource.telkomspeedy.com/wiki/index.php/NMS" title="NMS">NMS</a>) adalah kombinasi dari <a href="http://opensource.telkomspeedy.com/wiki/index.php/Hardware" title="Hardware">hardware</a> dan <a href="http://opensource.telkomspeedy.com/wiki/index.php/Software" title="Software">software</a> yang digunakan untuk memonitor dan mengatur server saja tidak mungkin yang lain selain server.
+</p><p>Setiap Server akan dikelola oleh sebuah elemen sistem manajemen.
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2982  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Nagios merupakan open source monitoring sistem komputer, jaringan 
+pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. Nagios
+ menawarkan pemantauan dan layanan peringatan untuk server, switch, 
+aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang 
+salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah 
+diselesaikan.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2983  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>SQLMap merupakan open source monitoring sistem komputer, jaringan 
+pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. SQLMap
+ menawarkan pemantauan dan layanan peringatan untuk server, switch, 
+aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang 
+salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah 
+diselesaikan.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2984  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>nmap merupakan open source monitoring sistem komputer, jaringan 
+pemantauan dan monitoring infrastruktur aplikasi perangkat lunak. nmap
+ menawarkan pemantauan dan layanan peringatan untuk server, switch, 
+aplikasi, dan layanan. Ia mengingatkan pengguna bila ada sesuatu yang 
+salah dan mengingatkan mereka untuk kedua kalinya ketika masalah telah 
+diselesaikan.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2985  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Nagios awalnya dirancang untuk berjalan di Linux tetapi juga berjalan 
+dengan baik pada varian Unix lainnya. Ini adalah perangkat lunak bebas 
+berlisensi di bawah syarat-syarat Lisensi versi GNU General Public 2 
+yang diterbitkan oleh Free Software Foundation.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2986  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Instalasi Server untuk Network Manajemen NAGIOS</p><p>&nbsp;apt-get install nagios<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2987  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Instalasi Server untuk Network Manajemen NAGIOS</p><p>&nbsp;apt-get install nagios3<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2988  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Instalasi Server untuk Network Manajemen NAGIOS</p><p>&nbsp;apt-get install nagios4<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2989  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Instalasi Server untuk Network Manajemen nmap<br></p><p>&nbsp;apt-get install nmap<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2990  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Restart Server untuk Network Manajemen NAGIOS
+</p>
+<pre>/etc/init.d/apache2 restart
+/etc/init.d/nagios3 restart
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2991  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Restart Server untuk Network Manajemen NAGIOS
+</p>
+<pre>/etc/init.d/apache2 restart
+/etc/init.d/nagios restart
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2992  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Proses monitoring dan manajemen jaringan biasanya menggunakan protokol <a href="http://opensource.telkomspeedy.com/wiki/index.php/SNMP" title="SNMP">SNMP</a>
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2993  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Proses monitoring dan manajemen jaringan biasanya menggunakan protokol SMTP
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2994  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Proses monitoring dan manajemen jaringan biasanya menggunakan protokol SMNP
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2995  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Proses monitoring dan manajemen jaringan biasanya menggunakan protokol SMTP
+</p><p><br>
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2996  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Pada network manajemen, setiap elemen jaringan di jaringan akan dikelola oleh sebuah elemen sistem manajemen.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2997  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Sebuah <strong class="selflink">Network Management System</strong> (<a href="http://opensource.telkomspeedy.com/wiki/index.php/NMS" title="NMS">NMS</a>) adalah kombinasi dari <a href="http://opensource.telkomspeedy.com/wiki/index.php/Hardware" title="Hardware">hardware</a> dan <a href="http://opensource.telkomspeedy.com/wiki/index.php/Software" title="Software">software</a> yang digunakan untuk memonitor dan mengatur jaringan.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2998  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Cacti merupakan solusi jaringan grafik lengkap yang dirancang untuk 
+memanfaatkan kekuatan penyimpanan data RRDTool dan fungsi grafik. Cacti 
+menyediakan poller cepat, grafik template yang canggih, beberapa metode 
+akuisisi data, dan manajemen pengguna fitur yang tidak biasa. Semua ini 
+dibungkus dengan intuitif, mudah digunakan antarmuka yang masuk akal 
+untuk instalasi LAN berukuran sampai dengan jaringan yang kompleks 
+dengan ratusan perangkat.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 2999  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Icinga adalah sistem komputer dan aplikasi pemantauan jaringan open 
+source. Ini pada awalnya diciptakan sebagai turunan dari aplikasi 
+monitoring sistem nagios pada tahun 2009.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3000  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Iciga adalah sistem komputer dan aplikasi pemantauan jaringan open 
+source. Ini pada awalnya diciptakan sebagai turunan dari aplikasi 
+monitoring sistem nagios pada tahun 2009.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3001  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Icinga berusaha untuk melewati kelambatan dalam proses pengembangan 
+nagios , serta menambahkan fitur baru seperti Web modern 2.0 pada gaya 
+antarmuka pengguna, konektor tambahan database (untuk MySQL, Oracle, dan
+ PostgreSQL), dan REST API yang memungkinkan administrator 
+mengintegrasikan berbagai ekstensi tanpa modifikasi rumit dari inti 
+Icinga.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3002  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Para pengembang Icinga juga berusaha untuk mencerminkan kebutuhan 
+pengguna lebih dekat dan mengintegrasikan patch lebih cepat. Versi 
+stabil pertama, 1.0, dirilis pada bulan Desember 2009, dan versi 
+selanjutnya meningkat setiap beberapa bulan sejak Januari 2010.
+</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3003  -->
+  <question type="truefalse">
+    <name>
+      <text>network manajemen (copy)</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Restart Server untuk Network Manajemen NAGIOS
+</p>
+<pre>/etc/init.d/apache restart
+/etc/init.d/nagios restart
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

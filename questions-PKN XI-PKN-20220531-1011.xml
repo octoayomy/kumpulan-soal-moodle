@@ -1,0 +1,3162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/PKN</text>
+
+    </category>
+  </question>
+
+<!-- question: 6761  -->
+  <question type="essay">
+    <name>
+      <text>Ada banyak pengaruh positif di bidang ekonomi akibat perkembangan ilmu ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Ada banyak pengaruh positif di bidang ekonomi akibat perkembangan ilmu pengetahuan dan teknologi, sebutkan 4 (empat) contoh pengaruh positif tersebut dengan benar !</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[1<br>2<br>3<br>4]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6758  -->
+  <question type="essay">
+    <name>
+      <text>Jelaskan apa yang dimaksud dengan Hak Asasi Manusia…</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Jelaskan apa yang dimaksud dengan Hak Asasi Manusia…</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>HAM</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6759  -->
+  <question type="essay">
+    <name>
+      <text>Perkembangan ilmu pengetahuan dan teknologi ternyata dapat berpengaruh ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Perkembangan ilmu pengetahuan dan teknologi ternyata dapat berpengaruh negatif dalam kehidupan berbangsa dan bernegara. Sebutkan 4 (empat) contoh pengaruh negatif tersebut dengan benar !</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[1<br>2<br>3<br>4]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6760  -->
+  <question type="essay">
+    <name>
+      <text>Selama revolusi kemerdekaan, di negara kita banyak terjadi pemberontakan yang...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Selama revolusi kemerdekaan, di negara kita banyak terjadi pemberontakan yang merongrong NKRI, sebutkan pemberontakan-pemberontakan tersebut dengan benar !</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text><![CDATA[HAM<br>GERAKAN PAPUA MERDEKA]]></text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6762  -->
+  <question type="essay">
+    <name>
+      <text>Untuk menumbuhkan rasa cinta tanah air dan mencintai persatuan dan kesatuan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Untuk menumbuhkan rasa cinta tanah air dan mencintai persatuan dan kesatuan bangsa Indonesia, dibuatlah konsep Wawasan Nusantara, jelaskan apa yang dimaksud dengan Wawasan Nusantara tersebut dengan benar !</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>wawasan tentang negara</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6757  -->
+  <question type="matching">
+    <name>
+      <text><![CDATA[Pilihan JawabanA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasal 29 ayat (2) UUD NRI Tahun 1945&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pilihan Jawaban<br><br>A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasal 29 ayat (2) UUD NRI Tahun 1945&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">dasar hukum kebebasan beragama dan beribadah bagi warga negara Indonesia</span>]]></text>
+      <answer>
+        <text><![CDATA[Pilihan JawabanA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pasal 29 ayat (2) UUD NRI Tahun 1945]]></text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">penegakan Hak Asasi Manusia di Indonesia</span>]]></text>
+      <answer>
+        <text>Komnas HAM</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">pengaruh positif kemajuan iptek dibidang pendidikan</span>]]></text>
+      <answer>
+        <text>Ujian dengan sistem online</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Munculnya sikap sekuler atau antiagama</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">klasifikasi hukum berdasarkan bentuknya</span>]]></text>
+      <answer>
+        <text>Hukum tertulis dan hukum tidak tertulis</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Hukum privat dan hukum publik</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">kewajiban warga negara Indonesia</span>]]></text>
+      <answer>
+        <text>Membayar pajak kendaraan</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">Beberapa Upaya yang harus dilakukan untuk mendapatkan kewarganegaraan disebut</span>]]></text>
+      <answer>
+        <text>Stelsel aktif</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Parlementer</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presiden sebagai kepala negara sekaligus sebagai kepala pemerintahan</span>]]></text>
+      <answer>
+        <text>Presidensial</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Badan Pemeriksaan Keuangan</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">berkewarganegaraan ganda</span>]]></text>
+      <answer>
+        <text>Bipatride</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dekrit Presiden Soekarno</span>]]></text>
+      <answer>
+        <text>Tanggal 5 Juli 1959</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text></text>
+      <answer>
+        <text>Repudiasi</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<span style="font-size:12pt">upaya pewarganegaraan seseorang ke suatu negara</span>]]></text>
+      <answer>
+        <text>Naturalisasi</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 6712  -->
+  <question type="multichoice">
+    <name>
+      <text>Apabila presiden dan wakil presiden tidak dapat melakukan kewajiban dalam ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Apabila presiden dan wakil presiden tidak dapat melakukan kewajiban dalam masa jabatannya secara bersamaan, pelaksanaan tugas kepresidenan dilaksanakan oleh .....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri luar negeri, menteri dalam negeri, dan menteri pertahanan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri luar negeri, menteri pertahanan, dan menteri sekertariat negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri dalam negeri, menteri hukum dan HAM, serta menteri luar negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri pertahanan, menteri hukum dan HAM, serta menteri sekertariatan negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri dalam negeri, menteri pertahanan, serta menteri koordinator politik, hukum dan keamanan.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6714  -->
+  <question type="multichoice">
+    <name>
+      <text>Bentuk kerjasama antara Eksekutif dan legislatif dalam Ketatanegaraan RI ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Bentuk kerjasama antara Eksekutif dan legislatif dalam Ketatanegaraan RI menurut UUD NRI Tahun 1945 adalah dalam bentuk</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pemberian Grasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Penentuan Pejabat Daerah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pembuatan undang-undang</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pengangkatan Mentri Negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pengamandemenan UUD 1945</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6744  -->
+  <question type="multichoice">
+    <name>
+      <text>Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia tahun 1945 pasal 30 ayat: 1, maka bangsa Indonesia mempunyai kewajiban untuk ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berorganisasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memilih dan dipilih</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membela negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mengembangkan pendidikan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mempertahankan pendapatnya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6742  -->
+  <question type="multichoice">
+    <name>
+      <text>Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia tahun 1945 pasal 29 ayat: 2, maka bangsa Indonesia mempunyai kebebasan untuk ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berorganisasi/berpendapat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memperoleh pendidikan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Beragama</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mengembangkan kebudayaan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membela negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6743  -->
+  <question type="multichoice">
+    <name>
+      <text>Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Berdasarkan ketentuan Undang-Undang Dasar Negara Kesatuan Republik Indonesia tahun 1945 pasal 28, maka bangsa Indonesia mempunyai kebebasan untuk ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berorganisasi/berpendapat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memperoleh pendidikan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Beragama</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mengembangkan kebudayaan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membela negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6755  -->
+  <question type="multichoice">
+    <name>
+      <text>Berdasarkan pasal 10 Kitab Undang-Undang Hukum Pidana (KUHP), ada beberapa ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Berdasarkan pasal 10 Kitab Undang-Undang Hukum Pidana (KUHP), ada beberapa macam sangsi hukuman pokok, yaitu....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukuman mati</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukumsn penjara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukuman denda</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukuman pencabutan beberapa hak</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukuman perampasan barang tertentu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6756  -->
+  <question type="multichoice">
+    <name>
+      <text>Berdasarkan Undang- Undang Republik Indonesia Nomor 30 Tahun 2002 mengenai ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Berdasarkan <a href="https://id.wikipedia.org/wiki/Undang-Undang_(Indonesia)">Undang-</a> <a href="https://id.wikipedia.org/wiki/Undang-Undang_(Indonesia)">Undang Republik Indonesia </a>Nomor 30 Tahun 2002 mengenai Komisi Pemberantasan Tindak Pidana Korupsi (KPK). Dalam pelaksanaan tugasnya, KPK berpedoman kepada lima asas, yaitu: kepastian hukum, keterbukaan, akuntabilitas, kepentingan umum, dan proporsionalitas.yaitu....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kepastian hukum</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Keterbukaan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Akuntabilitas</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kepentingan umum</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Proporsionalitas</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6729  -->
+  <question type="multichoice">
+    <name>
+      <text>Berikut ini yang merupakan pengaruh negatif kemajuan iptek dibidang ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berikut ini yang merupakan pengaruh negatif kemajuan iptek dibidang pendidikan adalah ....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Penyalahgunaan teknologi yang lainnya adalah pengetahuan yang melakukan tindak kriminal atau tidak dibenarkan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya perubahan tata nilai kehidupan dalam masyarakat antara lain cara orang bekerja, gaya hidup dan tata nilai masyarakat.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Terjadinya pengangguran bagi tenaga kerja yang tidak mempunyai kualifikasi yang sesuai dengan yang dibutuhkan.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Meningkatnya sifat konsumtif.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kemajuan TIK juga akan semakin memperparah kesenjangan sosial yang terjadi dimasyarakat antara orang kaya dengan orang miskin.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6751  -->
+  <question type="multichoice">
+    <name>
+      <text>Bilamana terjadi kekosongan pemerintahan karena presiden dan wakil presiden ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Bilamana terjadi kekosongan pemerintahan karena presiden dan wakil presiden berhalangan tetap, maka yng berhak melaksanakan adalah tiga mentri di bawah ini, yaitu ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri dalam negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri luar negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri keuangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri perekonomian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri pertahanan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6747  -->
+  <question type="multichoice">
+    <name>
+      <text>Contoh penerapan iptek yang tidak selaras dengan nilai kemanusiaan adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Contoh penerapan iptek yang tidak selaras dengan nilai kemanusiaan adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">berkembangnya media cetak dan informasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">berkembangnya senjata kimia pembunuh masal</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">melaksanakan ibadah agama sesuai ajaran-Nya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">berkembangnya judi online di tengah masyarakat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">lancarnya arus transportasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6736  -->
+  <question type="multichoice">
+    <name>
+      <text>Dalam kurun waktu antara 5 Juli 1959 sampai dengan 11 Maret 1966, sistem ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dalam kurun waktu antara 5 Juli 1959 sampai dengan 11 Maret 1966, sistem pemerintahan yang berlaku di Indonesia adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presidensial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presidensial semu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Parlementer</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Parlementer semu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Gabungan parlementer dan presidensial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6735  -->
+  <question type="multichoice">
+    <name>
+      <text>Dalam masa waktu antara 17 Agustus 1950 sampai dengan 5 Juli 1959, sistem ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dalam masa waktu antara 17 Agustus 1950 sampai dengan 5 Juli 1959, sistem pemerintahan yang berlaku di Indonesia adalah ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presidensial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presidensial semu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Parlementer</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Parlementer semu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Gabungan parlementer dan Presidensial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6746  -->
+  <question type="multichoice">
+    <name>
+      <text>Dalam rangka meningkatkan mutu pelayanan penyelenggaraan pemerintahan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dalam rangka meningkatkan mutu pelayanan penyelenggaraan pemerintahan terutama di daerah, maka dilaksanakanlah sistem Otonomi Daerah yang dalam pelaksanannya menggunakan asas ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kepatutan wilayah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sentralisasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Desentralisasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Otonomi khusus</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kebersamaan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6733  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini adalah lembaga yang bertjuan menegakkan keadilan dan menegakkan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dibawah ini adalah lembaga yang bertjuan menegakkan keadilan dan menegakkan supremasi hukum di Indonesia ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">MPR</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">MA/MK/KY</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">DPR</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">DPD</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Komnas HAM</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6721  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini yang bukan merupakan faktor pendukung tercapainya integrasi ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dibawah ini yang bukan merupakan faktor pendukung tercapainya integrasi nasional adalah......</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya tekad serta keinginan untuk bersatu dikalangan bangsa Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya rasa senasib dan seperjuangan yang diakibatkan oleh faktor sejarah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya semangat persatuan dan kesatuan bangsa, bahasa dan tanah air Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya ancaman dari luar yang menyebabkan munculnya semangat nasionalisme dikalangan bangsa Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya ideologi nasional yang tercermin dalam simbol negara yaitu garuda pancasila dan semboyan bhinneka Tunggal ika</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6715  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini yang bukan merupakan kementerian yang berada dibawah Kementerian ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dibawah ini yang <i>bukan</i> merupakan kementerian yang berada dibawah Kementerian Koordinator Bidang Kemaritiman?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kementerian Pariwisata</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kementerian Perhubungan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kementerian Pemuda dan Olahraga.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kementerian Kelautan dan Perikanan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kementerian Energi dan Sumber Daya Mineral</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6748  -->
+  <question type="multichoice">
+    <name>
+      <text>Di bawah ini yang merupakan contoh pelanggaran kewajiban warga negara adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Di bawah ini yang merupakan contoh pelanggaran kewajiban warga negara adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">membuang sampah sembarangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">melakukan penanaman kembali pada hutan gundul</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memakai masker untuk menjaga kesehatan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">membayar pajak bumi dan bangunan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">pengendara motor yang tidak memakai helem</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6754  -->
+  <question type="multichoice">
+    <name>
+      <text>Di bawah ini yang termasuk lembaga peradilan yang ada di Indonesia adalah ....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Di bawah ini yang termasuk lembaga peradilan yang ada di Indonesia adalah ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Peradilan militer</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Peradilan agama</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Peradilan umum</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Peradilan tata usaha negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Peradilan internasional</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6738  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini yang tidak termasuk upaya pemerintah dalam perlindungan dan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Dibawah ini yang tidak termasuk upaya pemerintah dalam perlindungan dan penegakan HAM di Indonesia adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya UU No. 9 tahun 2009</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Adanya UU No. 29 tahun 2009</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dibentuknya Lembaga Peradilan HAM</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Meratifikasi hukum internasional</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dibentuknya Komnas HAM</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6749  -->
+  <question type="multichoice">
+    <name>
+      <text>Di dalam UUD Negara Republik Indonesia tahun 1945 yang mengatur tentang hak ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Di dalam UUD Negara Republik Indonesia tahun 1945 yang mengatur tentang hak dan kewajinan warga negara tertuang dalam pasal ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">27 ayat (2)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">27 ayat (3)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">28</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">29 ayat (2)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20" format="html">
+      <text><![CDATA[<span style="font-size:12pt">30 ayat (1)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6727  -->
+  <question type="multichoice">
+    <name>
+      <text>Fungsi utama badan Pemeriksa Keuangan adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Fungsi utama badan Pemeriksa Keuangan adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memeriksa dan mengesahkan Rencana Anggaran Pendapatn Belanja Negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memeriksa pengelolaan dan tanggung jawab keuangan negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menindak pelanggaran penggunaan keuangan negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mengelola pembiayaan pembangunan nasional</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mengajukan anggaran pembelanjaan negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6711  -->
+  <question type="multichoice">
+    <name>
+      <text>Kekuasaan sebagaimana ditegaskan dalam Pasal 23 E ayat (1) UUD Negara ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Kekuasaan sebagaimana ditegaskan dalam Pasal 23 E ayat (1) UUD Negara Republik Indonesia Tahun 1945 yang menyatakan bahwa ?untuk memeriksa pengelolaan dan tanggung jawab tentang keuangan negara diadakan satu Badan yang bebas dan mandiri.?. Berdasarkan pasal tersebut, Badan yang dimaksud adalah ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menteri Keuangan RI</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dewan Perwakilan Daerah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dewan Perwakilan Rakyat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Gubernur Bank Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Badan Pemeriksa Keuangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6734  -->
+  <question type="multichoice">
+    <name>
+      <text>Kemajuan ilmu pengetahuan dan teknologi dibidang sosial budaya dapat membawa ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Kemajuan ilmu pengetahuan dan teknologi dibidang sosial budaya dapat membawa pengaruh negatif dalam kehidupan bermasyarakat seperti di bawah ini ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kedisiplinan meningkat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Masyarakat menjadi lebih konsumtif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Masyarakat menjadi lebih kreatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Inovasi masyarakat meningkat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Penegakan HAM meningkat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6741  -->
+  <question type="multichoice">
+    <name>
+      <text>Kerjasama yang melibatkan dua negara saling menguntungkan disebut kerjasama ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Kerjasama yang melibatkan dua negara saling menguntungkan disebut kerjasama ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Bilateral</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Multilateral</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Internasional</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Regional</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Antarnegara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6717  -->
+  <question type="multichoice">
+    <name>
+      <text>Kewarganegaraan seseorang ditentukan berdasarkan pada tempat lahir orang yang...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Kewarganegaraan seseorang ditentukan berdasarkan pada tempat lahir orang yang bersangkutan disebut asas....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ius soli</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ius sanguinis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">apatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">bipatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">repudiasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6745  -->
+  <question type="multichoice">
+    <name>
+      <text>Lembaga negara yang bertugas memeriksa penggunaan keuangan negara adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Lembaga negara yang bertugas memeriksa penggunaan keuangan negara adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">D P R</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">M P R</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">D P D</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">D P A</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">B P K</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6709  -->
+  <question type="multichoice">
+    <name>
+      <text>Menurut John Lock, kekuasaan untuk melaksanakan hubungan luar negeri adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Menurut John Lock, kekuasaan untuk melaksanakan hubungan luar negeri adalah kekuasaan ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Konstitutif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Legislatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Eksekutif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Yudikatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Federatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6708  -->
+  <question type="multichoice">
+    <name>
+      <text>Menurut Montesqueiu, kekuasaan untuk melaksanakan undang-undang, termasuk ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Menurut Montesqueiu, kekuasaan untuk melaksanakan undang-undang, termasuk kekuasaan untuk mengadili setiap pelanggaran terhadap undang- undang adalah kekuasaan ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Konstitutif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Legislatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Eksekutif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Yudikatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Eksaminatif</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6707  -->
+  <question type="multichoice">
+    <name>
+      <text>Menurut Undang-undang Dasar 1945, kekuasaan Eksekutif di Indonesia dijalankan...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menurut Undang-undang Dasar 1945, kekuasaan Eksekutif di Indonesia dijalankan oleh lembaga .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presiden</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dewan Perwakilan Rakyat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mahkamah Agung</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dewan Perwakilan Daerah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Badan Pemeriksa Keuangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6710  -->
+  <question type="multichoice">
+    <name>
+      <text>Menurut UUD NRI Tahun 1945 tugas untuk mengangkat para duta besar dan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Menurut UUD NRI Tahun 1945 tugas untuk mengangkat para duta besar dan berkuasa penuh ke negara sahabat adalah tugas dari ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">MPR</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presiden</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">DPR</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Komisi Yudisial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mahkamah Konstitusi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6720  -->
+  <question type="multichoice">
+    <name>
+      <text>Momentum yang merupakan konsensus nasional yang merupakan konsep integrasi ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Momentum yang merupakan konsensus nasional yang merupakan konsep integrasi bangsa Indonesia menjadi suatu bangsa yang resmi dan berdaulat adalah?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Proklamasi Kemerdekaan 17 Agustus 1945</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sumpah Pemuda pada tanggal 28 Oktober 1928.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Penetapan Pancasila pada tanggal 17 Agustus 1945</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Penetapan UUD NRI Tahun 1945 pada tanggal 17 Agustus 1945</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dimasukannya Burung Garuda sebagai Lambang Negara Republik Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6730  -->
+  <question type="multichoice">
+    <name>
+      <text>Pengaruh negatif iptek dalam bidang pertanian adalah ....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Pengaruh negatif iptek dalam bidang pertanian adalah ....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">berkurangnya lapangan pekerjaan pada sektor pertanian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">petani-petani jadi malas bekerja</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">banyak petani meninggalkan desa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">munculnya varietas tanaman baru yang lebih baik</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">banyaknya penipuan pada penjualan online</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6713  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Perhatikan fungsi Kementerian negara berikut !1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; melaksanakan penelitian...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Perhatikan fungsi Kementerian negara berikut !<br></span></div><div style="text-align:justify"><ol><li><span style="font-size:12pt">melaksanakan penelitian dan pengembangan di bidang pemerintahan dalam negeri</span></li><li>pelaksanaan kegiatan teknis dari pusat sampai ke daerah diseluruh Indonesia</li><li>melaksanakan koordinasi,melaksanakan kebijaksanaan dan program yang telah ditetapkan di bidang tertentu yang menjadi tanggung jawabnya</li><li>menampung dan mengusahaan penyelesaian masalah yang timbul serta mengikuti perkembangan dalam bidang yang dikoordinasikannya.</li><li>pelaksanaan penelitian dan pengembangan di bidang pemerintahan dalam negeri. Dari data tersebut, yang termasuk fungsi kementerian koordinator ditandai oleh nomor ....</li></ol></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1) dan 2)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1) dan 3)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">2) dan 3)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">3) dan 4)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">3) dan 5)</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6718  -->
+  <question type="multichoice">
+    <name>
+      <text>Perlindungan Negara terhadap penduduk dalam memeluk agama termaktub dalam ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Perlindungan Negara terhadap penduduk dalam memeluk agama termaktub dalam pasal ?. .</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">28E ayat 1</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">28E ayat 2</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">28E ayat 3</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">29 ayat 1</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">29 ayat 2</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6722  -->
+  <question type="multichoice">
+    <name>
+      <text>Salah satu hal penting dalam mewujudkan kemerdekaan mengemukakan pendapat ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Salah satu hal penting dalam mewujudkan kemerdekaan mengemukakan pendapat adalah adanya kebebasan yang dimiliki setiap individu, karena?.</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">akan menghasilkan ide yang sesuai dengan hati nuraninya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">dijamin keberadaannya di dalam peraturan perundangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">akan menghasilkan pendapat yang mayoritas sama</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">mewujudkan pemerintahan yang berkeadilan sosial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menjamin menghasilkan keputusan yang berkualitas?</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6724  -->
+  <question type="multichoice">
+    <name>
+      <text>Sebagai warga negara Indonesia kita sudah tidak asing lagi dengan slogan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Sebagai warga negara Indonesia kita sudah tidak asing lagi dengan slogan Bhinneka Tunggal Ika. Slogan yang merupakan prinsip dari pandangan hidup negara kita terhadap kemajemukan suku-suku yang ada di dalamnya. Berdasarkan hal tersebut dapat dismpulkan bahwa fungsi dari Bhinneka Tunggal Ika adalah ?.</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menjadi landasan mewujudkan persatuan dan kesatuan bangsa Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">sebagai pedoman untuk mengembangkan kebudayaan daerah masing-masing</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menjadi landasan dalam berperilaku antar suku bangsa yang berbeda-beda</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">sebagai pedoman menyusun amandemen terhadap UUD NRI Tahun 1945</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menjadi landasan dalam menerapkan Pancasila sebagai ideologi terbuka?</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6740  -->
+  <question type="multichoice">
+    <name>
+      <text>Sedang yang berhak menyatakan perang dengan negara lain adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Sedang yang berhak menyatakan perang dengan negara lain adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presiden</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri pertahanan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Panglima TNI</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">DPR dan MPR</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">TNI-POLRI</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6719  -->
+  <question type="multichoice">
+    <name>
+      <text>Seorang keturunan bangsa A yang menganut asas ius soli lahir di negara B yang...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Seorang keturunan bangsa A yang menganut asas ius soli lahir di negara B yang menganut asas ius sanguinis, maka status kewarganegaraanya orang tersebut adalah....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ius soli</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ius sanguinis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">apatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">bipatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">repudiasi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6726  -->
+  <question type="multichoice">
+    <name>
+      <text>Seorang terdakwa diwajibkan hadir ketika pengadilan memeriksa, mengadili, dan...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Seorang terdakwa diwajibkan hadir ketika pengadilan memeriksa, mengadili, dan memutus perkara agar ...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Apabila terdapat kekeliruan orang, terdakwa dapat menuntut ganti rugi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Untuk menjamin terdakwa mendapat hak pembelaan dari negara</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Supaya identifikasi terdakwa dapat diperiksa oleh hakim</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Untuk menjamin terdakwa tidak akan melarikan diri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Untuk mempertemukan penuntut dan terdakwa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6737  -->
+  <question type="multichoice">
+    <name>
+      <text>Seseorang yang tidak memiliki status kewarganegaraan disebut ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Seseorang yang tidak memiliki status kewarganegaraan disebut ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Nonkependudukan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Nasionalism</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tripatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Bipatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Apatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6732  -->
+  <question type="multichoice">
+    <name>
+      <text>Sikap selektif dalam dalam penggunaan teknologi berdasarkan sila pertama dari...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Sikap selektif dalam dalam penggunaan teknologi berdasarkan sila pertama dari Pancasila mengajak kita untuk ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memperkokoh kebhinekaan Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memperhatikan keanekaragaman budaya-budaya, agama-agama di Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">membantu aparatur dalam penggunaan iptek</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">semakin mendekatkan kepada Tuhan Yang Maha Esa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menciptakan kemerataan kesejahteraan di Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6731  -->
+  <question type="multichoice">
+    <name>
+      <text>Sikap selektif dalam dalam penggunaan teknologi berdasarkan sila pertama dari...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Sikap selektif dalam dalam penggunaan teknologi berdasarkan sila pertama dari Pancasila mengajak kita untuk ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memperkokoh kebhinekaan Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memperhatikan keanekaragaman budaya-budaya, agama-agama di Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">membantu aparatur dalam penggunaan iptek</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">semakin mendekatkan kepada Tuhan Yang Maha Esa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">menciptakan kemerataan kesejahteraan di Indonesia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6752  -->
+  <question type="multichoice">
+    <name>
+      <text>Terjadinya perbedaan asas dalam penentuan status kewarganegaraan antara ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Terjadinya perbedaan asas dalam penentuan status kewarganegaraan antara negara satu dengan negara lain adalah kemungkinan terjadinya ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Apatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Bipatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tripatride</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tuna wisma</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tuna karya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6716  -->
+  <question type="multichoice">
+    <name>
+      <text>Tugas negara juga melindungi wilayah Zona Ekonomi Eksklusif yang merupakan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Tugas negara juga melindungi wilayah Zona Ekonomi Eksklusif yang merupakan batas wilayah laut suatu Negara dari garis pantai yang luasnya ?</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">200 mil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">240 mil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">250 mil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">260 mil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">300 mil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6723  -->
+  <question type="multichoice">
+    <name>
+      <text>Upaya untuk melindungi anak-anak dari penganiayaan dan diskriminasi, negara ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Upaya untuk melindungi anak-anak dari penganiayaan dan diskriminasi, negara membentuk komisi khusus, yaitu?.</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">KPAI</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Komnas HAM</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">BIN</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Komisi Yudisial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">KNPI</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6728  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Usaha-usaha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sadar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; untuk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menyelidiki,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menemukan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Usaha-usaha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sadar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; untuk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menyelidiki,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; menemukan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meningkatkan pemahaman <a href="https://id.wikipedia.org/wiki/Manusia">manusia </a>dari berbagai segi kenyataan dalam alam manusia disebut ....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Iptek</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">belajar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">teknologi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ilmu pengetahuan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">penelitian sederhana</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6725  -->
+  <question type="multichoice">
+    <name>
+      <text>Wawasan Nusantara berfungsi sebagai pedoman, motivasi, dorongan dan rambu- ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Wawasan Nusantara berfungsi sebagai pedoman, motivasi, dorongan dan rambu- rambu dalam....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menentukan segala kebijakan yang berhubungan dengan penentuan politik luar negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menentukan segala kebijakan, keputusan, tindakan dan perbuatan bagi penyelanggaran negara di pusat dan daerah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menentukan segala kebijakan yang berkaitan dengan hubungan antara pemerintah pusat dan daerah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menentukan kebijakan yang berkaitan dengan bidang politik dan sosial budaya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menentukan arah dan tujuan negara dalam berhubungan dengan negara lain.</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6739  -->
+  <question type="multichoice">
+    <name>
+      <text>Yang berhak mengangkat Duta Besar dan berkuasa penuh di negara lain adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Yang berhak mengangkat Duta Besar dan berkuasa penuh di negara lain adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">D P R</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">M P R</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri dalam negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mentri luar negeri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Presiden</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6750  -->
+  <question type="multichoice">
+    <name>
+      <text>Yang merupakan tujuan nasional Indonesia sebagaimana tertuang dalam Pembukaan...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Yang merupakan tujuan nasional Indonesia sebagaimana tertuang dalam Pembukaan UUD NRI Tahun 1945 alinea keempat adalah ...</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">mencerdaskan kehidupan bangsa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">memajukan kesejahteraan umum</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">mengembangkan kehidupan keagamaan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">membangun masyarakat yang adil dan makmur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">melaksanakan ketertiban dunia yang berdasarkan perdamaian abadi dan keadilan sosial</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 6753  -->
+  <question type="multichoice">
+    <name>
+      <text>Yang termasuk ancaman dalam kehidupan bermasyarakat, berbangsa dan bernegara ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="text-align:justify"><span style="font-size:12pt">Yang termasuk ancaman dalam kehidupan bermasyarakat, berbangsa dan bernegara akibat kemajuan ilmu pengetahuan dan teknologi antara lain adalah....</span></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Modernisasi alat perang</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Beragamnya model alat medsos</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sikap nasionalisme yang tinggi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Maraknya bahan obat berbahan sintetis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Meningkatnya sikap gemar belajar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

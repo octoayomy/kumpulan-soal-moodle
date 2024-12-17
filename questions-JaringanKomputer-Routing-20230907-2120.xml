@@ -1,0 +1,3391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/UTS</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/UTS/ROUTING</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/UTS/ROUTING/Routing</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 3172  -->
+  <question type="matching">
+    <name>
+      <text>network address</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>broadcast address untuk IP address dengan netmask berikut adalah</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.0.0/24</p>]]></text>
+      <answer>
+        <text>192.168.0.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.8.0/16</p>]]></text>
+      <answer>
+        <text>192.168.255.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.8.0/24</p>]]></text>
+      <answer>
+        <text>192.168.8.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.0.0/8</p>]]></text>
+      <answer>
+        <text>192.255.255.255</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3173  -->
+  <question type="matching">
+    <name>
+      <text>network address</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>broadcast address untuk IP address dengan netmask berikut adalah</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.0.0/24</p>]]></text>
+      <answer>
+        <text>192.168.0.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.10.0/16</p>]]></text>
+      <answer>
+        <text>192.168.255.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.10.0/24</p>]]></text>
+      <answer>
+        <text>192.168.10.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>192.168.0.0/8</p>]]></text>
+      <answer>
+        <text>192.255.255.255</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3174  -->
+  <question type="matching">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Keluaran berikut di CLI Linux<br><br>default via 192.168.10.1 dev eth0&nbsp; proto static <br>192.168.10.0/24 dev eth0&nbsp; proto kernel&nbsp; scope link&nbsp; src 192.168.10.220&nbsp; metric 1 <br></p><p>menunjukan<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[IP address gateway<br>]]></text>
+      <answer>
+        <text>192.168.10.1</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP LAN<br></p>]]></text>
+      <answer>
+        <text>192.168.10.0/24</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Interfacedefault via 192.168.10.1 dev eth0&nbsp; proto static </p>]]></text>
+      <answer>
+        <text>eth0</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3175  -->
+  <question type="matching">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[keluaran berikut <br><br>Kernel IP routing table<br>Destination&nbsp;&nbsp;&nbsp;&nbsp; Gateway&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Genmask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flags&nbsp;&nbsp; MSS Window&nbsp; irtt Iface<br>0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 192.168.10.1&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br>192.168.10.0&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 255.255.255.0&nbsp;&nbsp; U&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br><br>Menunjukan<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP gateway<br></p>]]></text>
+      <answer>
+        <text>192.168.10.1</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Interface<br></p>]]></text>
+      <answer>
+        <text>eth0</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Network Address LAN<br></p>]]></text>
+      <answer>
+        <text>192.168.10.0</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Netmask LAN<br></p>]]></text>
+      <answer>
+        <text>255.255.255.0</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Jumlah komputer di LAN yang dapat di alamati<br></p>]]></text>
+      <answer>
+        <text>254</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3176  -->
+  <question type="matching">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP address router<br></p>]]></text>
+      <answer>
+        <text>192.168.1.1</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP addres broadcast<br></p>]]></text>
+      <answer>
+        <text>192.168.1.255</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Port<br></p>]]></text>
+      <answer>
+        <text>route</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Protokol routing <br></p>]]></text>
+      <answer>
+        <text>RIPv2</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Host yang bisa dihubungi dari router<br></p>]]></text>
+      <answer>
+        <text>36.80.32.1/32</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[Protokol Transport yang digunakan<br>]]></text>
+      <answer>
+        <text>UDP</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3177  -->
+  <question type="matching">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil penyadapan tcpdump, tampak</p><p>18:21:49.023648 IP (tos 0x0, ttl 64, id 49186, offset 0, flags [none], proto UDP (17), length 328)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 300, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Discover<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br>18:21:49.027083 IP (tos 0x0, ttl 64, id 43784, offset 0, flags [none], proto UDP (17), length 339)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 311, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Request<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Requested-IP Option 50, length 4: 192.168.1.131<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Server-ID Option 54, length 4: 192.168.1.1<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br></p><p><br></p><p>Ini menunjukan<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <subquestion format="html">
+      <text><![CDATA[<p>Total paket<br></p>]]></text>
+      <answer>
+        <text>2</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[MAC address device yang meminta IP address<br><p><br></p>]]></text>
+      <answer>
+        <text>8c:77:16:8f:84:ad</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[hostname device yang request / meminta<br><p><br></p>]]></text>
+      <answer>
+        <text>android-5660ddd624116610</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP address yang di terima device<br></p>]]></text>
+      <answer>
+        <text>192.168.1.131</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>IP address router<br></p>]]></text>
+      <answer>
+        <text>192.168.1.1</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Device adalah<br></p>]]></text>
+      <answer>
+        <text>android</text>
+      </answer>
+    </subquestion>
+  </question>
+
+<!-- question: 3178  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>interface 192.168.1.1/16 tidak mungkin tersambung langsung ke IP address</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.167.1.1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.2</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.10.10</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.100.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.111.12</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3179  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>interface 192.168.1.1 netmask 255.255.0.0 tidak mungkin tersambung langsung ke IP address</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.169.1.1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.2</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.10.10</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.100.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.111.12</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3180  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>IP address STKIP Surya 10.150.x.x , merupakan alamat IP kelas:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>A</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>B</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>C</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>D</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>E</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3181  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>interface 192.168.1.1 netmask 255.255.0.0 tidak mungkin ping ke IP address</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.167.1.1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.2</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.10.10</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.100.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.111.12</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3182  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM - netmask</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>network address dari 192.168.123.123/24 adalah</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.168.123.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.123.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>0.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3183  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM - netmask</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>network address dari 192.168.123.123 dengan netmask 255.255.255.0 adalah</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.168.123.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.123.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>0.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3184  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM - netmask</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>interface 192.168.1.1 netmask 255.255.0.0 tidak mungkin ping ke IP address</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.169.1.1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.2</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.10.10</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.100.123</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.111.12</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3185  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM - Netmask</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>IP adress 10.10.10.10 dengan netmask 255.0.0.0 dapat ditulis sebagai</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>10.10.10.10/8</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.10.10.10/16</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.10.10.10/24</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.10.10.10/32</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.10.10.10/25</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3186  -->
+  <question type="multichoice">
+    <name>
+      <text>JARKOM - Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>perintah untuk melihat tabel routing dan gateway</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>netstat -nr</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ifconfig eth0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ping 192.168.1.1</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>dig www.google.com</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>arp -n</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3187  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Network address dari 100.100.100.100/8</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>100.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.100.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.100.100.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.0.100.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.0.0.100</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3188  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Network Address dari IP address 10.123.45.67/16 adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>10.123.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.255.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3189  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Network address dari 100.100.100.100  dengan netmask 255.0.0.0</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>100.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.100.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.100.100.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.0.100.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>100.0.0.100</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3190  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Network Address dari IP address 10.123.45.67</p>
+<p>dengan netmask 255.255.0.0 adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>10.123.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.255.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3191  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Jumlah maksimum komputer dalam jaringan 192.168.2.0/24 adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>254</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>256</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>253</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>252</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3192  -->
+  <question type="multichoice">
+    <name>
+      <text>NETMASK</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Network Address dari IP address 10.123.89.243</p>
+<p>dengan netmask 255.255.0.0 adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>10.123.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.255.255.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>10.123.45.255</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3193  -->
+  <question type="multichoice">
+    <name>
+      <text>NETWORK - Netmask</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>192.168.1.100 dengan netmask 255.255.0.0 dapat di tulis sebagai</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>192.168.1.100/16</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.100/24</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.100/8</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.100/32</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>192.168.1.100/26</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3194  -->
+  <question type="multichoice">
+    <name>
+      <text>ROUTING</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah "route add -net 192.168.0.0/24 gw 10.123.45.67" adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>memberikan routing ke arah jaringan 192.168.0.0/24</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke arah jaringan 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke jaringan 192.168.0.0 netmask 255.0.0.0</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke arah 192.168.0.0 netmask 255.255.0.0</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3195  -->
+  <question type="multichoice">
+    <name>
+      <text>ROUTING</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah "route add -host 192.168.123.12 gw 192.168.0.222" adalah :</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>memberikan routing ke arah mesin 192.168.123.12</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke arah jaringan 192.168.123.12</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke mesin 192.0.123.12 netmask 255.0.0.0</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Memberikan routing ke arah 192.168.0.0 netmask 255.255.0.0</p>
+<p>melalui gateway 10.123.45.67</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3196  -->
+  <question type="multichoice">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>perintah berikut dapat melihat tabel routing yang ada di sebuah komputer</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>netstat -nr</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>route -n</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ifconfig</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iwconfig</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>ps ax</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>fdisk</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>du -h</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>df -h</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3197  -->
+  <question type="multichoice">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>hasil perintah</p>
+<p>route -n</p>
+<p>adalah</p>
+<p><br />Kernel IP routing table<br />Destination     Gateway         Genmask         Flags Metric Ref    Use Iface<br />0.0.0.0         192.168.0.222   0.0.0.0         UG    0      0        0 eth0<br />169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 eth0<br />192.168.0.0     0.0.0.0         255.255.255.0   U     1      0        0 eth0<br /><br /></p>
+<p>maka Internet di representasikan</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>destination 0.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>destination 192.168.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>destination 169.254.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>genmask 255.255.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>genmask 255.255.255.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>genmask 0.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>genmask 255.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>destination 10.0.0.0</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3198  -->
+  <question type="multichoice">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Protocol berikut tidak mungkin digunakan untuk melakukan routing dynamic</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>OSPF</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>OLSR</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>RIP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>BGP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>SMTP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3199  -->
+  <question type="multichoice">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Protocol berikut tidak mungkin digunakan untuk melakukan routing dynamic</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>OSPF</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>OLSR</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>RIP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>BGP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>FTP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3200  -->
+  <question type="truefalse">
+    <name>
+      <text>NAT</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk Network Address Translation (NAT) ke interface wlan0 dan me-masquerade / membuat masker / perantara dengan LAN di belakangnya adalah</p>
+<pre>/sbin/iptables -t nat -A POSTROUTING -o wlan0 -j MASQUERADE<br /><br /></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3201  -->
+  <question type="truefalse">
+    <name>
+      <text>NAT</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk Network Address Translation (NAT) ke interface wlan0 dan me-masquerade / membuat masker / perantara dengan LAN di belakangnya adalah</p>
+<pre>/sbin/iptables -t nat -A POSTROUTING -o wlan0 -j SNAT --to 202.159.128.123</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3202  -->
+  <question type="truefalse">
+    <name>
+      <text>NAT</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Dengan menggunakan perintah<br /><br />/sbin/iptables -t nat -A POSTROUTING -o wlan0 -j SNAT --to 202.159.128.123<br /><br />Maka IP address source dari LAN di Internet akan berubah menjadi 202.159.128.123<br /><br /></pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3203  -->
+  <question type="truefalse">
+    <name>
+      <text>NAT</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Dengan menggunakan perintah<br /><br />/sbin/iptables -t nat -A POSTROUTING -o wlan0 -j SNAT --to 202.159.128.123<br /><br />Maka IP address source dari LAN di Internet akan berubah / dinamik tergantung IP addess yang ada di wlan0</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3204  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>10.10.10.10/8 ---- Router ---- 192.168.1.100/16 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3205  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>10.10.10.10/8 ---- Router ---- 10.100.1.45/16 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3206  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>192.168.10.123/24 ---- Router ---- 192.168.123.45/16 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3207  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>192.168.10.123/16 ---- Router ---- 192.168.123.45/26 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3208  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>172.16.8.233/16 ---- Router ---- 192.168.123.45/26 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3209  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>172.31.8.233/16 ---- Router ---- 192.168.123.45/26 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3210  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>172.31.8.233/16 ---- Router ---- 192.168.123.45/8 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3211  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Konfigurasi Jaringan berikut</p>
+<p>179.31.8.233/16 ---- Router ---- 192.168.123.45/24 --- Router -- Internet</p>
+<p>bisa beroperasi dengan baik</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3212  -->
+  <question type="truefalse">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>untuk melihat tabel routing yang ada di sebuah komputer kita dapat menggunakan perintah</p>
+<p>netstat -nr</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3213  -->
+  <question type="truefalse">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>untuk melihat tabel routing di sebuah komputer kita dapat menggunakan perintah</p>
+<p>route -n</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3214  -->
+  <question type="truefalse">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>untuk melihat tabel routing kita dapat menggunakan perintah</p>
+<p>ifconfig</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3215  -->
+  <question type="truefalse">
+    <name>
+      <text>routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>hasil perintah</p>
+<p>route -n</p>
+<p>adalah</p>
+<p><br />Kernel IP routing table<br />Destination     Gateway         Genmask         Flags Metric Ref    Use Iface<br />0.0.0.0         192.168.0.222   0.0.0.0         UG    0      0        0 eth0<br />169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 eth0<br />192.168.0.0     0.0.0.0         255.255.255.0   U     1      0        0 eth0<br /><br /></p>
+<p>maka Internet di representasikan dengan Genmask 255.255.0.0</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3216  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Pada routing dinamis, pemberitahuan ke komputer / router lain tentang tabel routing yang dimiliki biasanya menggunakan BROADCAST Address.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3217  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Pada routing dinamis, pemberitahuan ke komputer / router lain tentang tabel routing yang dimiliki biasanya menggunakan NETWORK Address.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3218  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Pada routing dinamis, pemberitahuan ke komputer / router lain tentang tabel routing yang dimiliki biasanya menggunakan NETMASK.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3219  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Variabel Length Subnet Masks tidak didukung oleh RIP versi 1.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3220  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Variabel Length Subnet Masks seperti <strong>Classless Inter-Domain Routing (CIDR) </strong>tidak didukung oleh RIP version 1.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3221  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Variabel Length Subnet Masks seperti <strong>Classless Inter-Domain Routing (CIDR) </strong>didukung oleh RIP version 1.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3222  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Variabel Length Subnet Masks seperti <strong>Classless Inter-Domain Routing (CIDR)</strong> didukung oleh RIP versi 2.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3223  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Protokol yang digunakan pada router dengan routing dinamis akan memberitahukan NETWORK Address dan NETMASK dari jaringan yang tersambung padanya atau yang dapat dihubungi melalui router tersebut.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3224  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>CIDR di ajukan pada tahun 1993 untuk menggantikan cara pengalamatan yang lama yang menggunakan disain arsitektur classful network di Internet dengan tujuan untuk memperlambat pertumbuhan router yang ada di Internet, juga menunda kehabisan / kekurangan dari IPv4 address.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3225  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>CIDR di ajukan pada tahun 1993 untuk menggantikan cara pengalamatan yang lama yang menggunakan disain arsitektur classful network di Internet dengan tujuan untuk memperlambat pertumbuhan router yang ada di Internet, juga mempercepat kehabisan / kekurangan dari IPv4 address.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3226  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Notasi CIDR menggunakan sintaks yang baru untuk menerangkan IP address IPv4 dan IPv6, yaitu dengan menggunakan base network address dilanjutkan dengan slash dan berarnya dari prefix routing, contoh, 192.168.0.0/16 (IPv4), dan 2001:db8::/32 (IPv6).</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3227  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Notasi CIDR menggunakan sintaks yang baru untuk menerangkan IP address IPv4 dan IPv6, yaitu dengan menggunakan base network address dilanjutkan dengan slash dan berarnya dari prefix routing, contoh, 192.168.0.0\16 (IPv4), dan 2001:db8::\32 (IPv6).</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3228  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Routing statik adalah tipe routing yang biasanya digunakan saat tidak ada komunikasi antar router tentang topologi jaringan.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3229  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Routing statik adalah tipe routing yang biasanya digunakan saat terjadi komunikasi antar router tentang topologi jaringan.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3230  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Routing statik dilakukan dengan cara menambahkan secara manual routing ke tabel routing.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3231  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Routing statik dilakukan dengan cara menambahkan secara automatis routing jaringan yang ada ke tabel routing.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3232  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Lawan dari routing statik adalah dynamic routing / routing dinamis, kadang kala di kenal sebagai adaptive routing.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3233  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dynamic routing / routing dinamis kadang kala di kenal sebagai adaptive routing.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3234  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menampilkan tabel routing IPv4 adalah</p><p>ip route show<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3235  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menampilkan tabel routing IPv4 adalah</p><p>ip show route<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3236  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Keluaran berikut di CLI Linux<br><br>default via 192.168.10.1 dev eth0&nbsp; proto static <br>192.168.10.0/24 dev eth0&nbsp; proto kernel&nbsp; scope link&nbsp; src 192.168.10.220&nbsp; metric 1 <br><br>metrupakan keluaran perintah<br><br>ip route show<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3237  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Keluaran berikut di CLI Linux<br><br>default via 192.168.10.1 dev eth0&nbsp; proto static <br>192.168.10.0/24 dev eth0&nbsp; proto kernel&nbsp; scope link&nbsp; src 192.168.10.220&nbsp; metric 1 <br><br>metrupakan keluaran perintah<br><br>ip show route<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3238  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>keluaran</p><p>Kernel IP routing table<br>Destination&nbsp;&nbsp;&nbsp;&nbsp; Gateway&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Genmask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flags&nbsp;&nbsp; MSS Window&nbsp; irtt Iface<br>0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 192.168.10.1&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br>192.168.10.0&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 255.255.255.0&nbsp;&nbsp; U&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br></p><p>merupakan hasil perintah <br></p><p>netstat -nr<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3239  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>keluaran</p><p>Kernel IP routing table<br>Destination&nbsp;&nbsp;&nbsp;&nbsp; Gateway&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Genmask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flags&nbsp;&nbsp; MSS Window&nbsp; irtt Iface<br>0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 192.168.10.1&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br>192.168.10.0&nbsp;&nbsp;&nbsp; 0.0.0.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 255.255.255.0&nbsp;&nbsp; U&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0 eth0<br></p><p>merupakan hasil perintah <br></p><p>ip route show<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3240  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p><ul><li>Routing menggunakan protokol RIP<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3241  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p><ul><li>Routing menggunakan protokol OSPF<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3242  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p><ul><li>Routing menggunakan protokol BGP<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3243  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p><ul><li>Router 192.168.1.1</li><li>Mempunyai route ke arah 0.0.0.0/0</li><li>Mempunyai route ke arah 36.80.32.1/32<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3249  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Hasil penyadapan tcpdump menunjukan<br><br>19:06:14.645012 IP (tos 0xc0, ttl 1, id 1689, offset 0, flags [none], proto IGMP (2), length 32, options (RA))<br>&nbsp;&nbsp;&nbsp; 192.168.1.1 &gt; rip2-routers.mcast.net: igmp v2 report rip2-routers.mcast.net<br><br>Ini menunjukan ada pertukaran informasi tentang router / routing.<br><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3250  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Hasil penyadapan tcpdump menunjukan<br><br>19:06:14.645012 IP (tos 0xc0, ttl 1, id 1689, offset 0, flags [none], proto IGMP (2), length 32, options (RA))<br>&nbsp;&nbsp;&nbsp; 192.168.1.1 &gt; rip2-routers.mcast.net: igmp v2 report rip2-routers.mcast.net<br><br>Ini menunjukan ada pertukaran informasi tentang web server.<br><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3251  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Hasil penyadapan tcpdump menunjukan<br><br>19:06:14.645012 IP (tos 0xc0, ttl 1, id 1689, offset 0, flags [none], proto IGMP (2), length 32, options (RA))<br>&nbsp;&nbsp;&nbsp; 192.168.1.1 &gt; rip2-routers.mcast.net: igmp v2 report rip2-routers.mcast.net<br><br>Ini menunjukan ada pertukaran informasi tentang mail server.<br><p><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3244  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Saat melakukan penyadapan menggunakan tcpdump, tampak paket</p><p>18:21:36.836261 IP (tos 0x0, ttl 1, id 56158, offset 0, flags [none], proto UDP (17), length 72)<br>&nbsp;&nbsp;&nbsp; 192.168.1.1.route &gt; 192.168.1.255.route: <br>&nbsp;&nbsp;&nbsp; RIPv2, Response, length: 44, routes: 2 or less<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0.0.0/0 , tag 0x0000, metric: 2, next-hop: self<br>&nbsp;&nbsp;&nbsp; &nbsp; AFI IPv4,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36.80.32.1/32, tag 0x0000, metric: 1, next-hop: self<br></p><p>paket tersebut pada dasarnya memberitahukan informasi</p><ul><li>Router 192.168.1.1</li><li>Mempunyai route ke arah 192.168.1.255/32</li><li>Mempunyai route ke arah 202.123.1.2/0<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3245  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil penyadapan tcpdump tampak</p><p>18:21:49.023648 IP (tos 0x0, ttl 64, id 49186, offset 0, flags [none], proto UDP (17), length 328)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 300, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Discover<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br></p><p><br></p><p>menunjukan</p><ul><li>Sebuah handphone android</li><li>Mencari DHCP Server</li><li>Untuk meminta IP address<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3246  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil penyadapan tcpdump tampak</p><p>18:21:49.023648 IP (tos 0x0, ttl 64, id 49186, offset 0, flags [none], proto UDP (17), length 328)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 300, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Discover<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br></p><p><br></p><p>menunjukan</p><ul><li>Sebuah handphone android</li><li>Mencari DHCP Server</li><li>Untuk meminta IP address</li><li>Menggunakan protokol transport TCP<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3247  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil penyadapan tcpdump tampak <br></p><p>18:21:49.023648 IP (tos 0x0, ttl 64, id 49186, offset 0, flags [none], proto UDP (17), length 328)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 300, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Discover<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br>18:21:49.027083 IP (tos 0x0, ttl 64, id 43784, offset 0, flags [none], proto UDP (17), length 339)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 311, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Request<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Requested-IP Option 50, length 4: 192.168.1.131<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Server-ID Option 54, length 4: 192.168.1.1<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br></p><p>Ini menunjukan:</p><ul><li>Dua buah paket</li></ul><ul><li>Paket pertama permohonan IP address DHCP dari sebuah HP android</li></ul><ul><li>Paket kedua jawaban IP address dari router</li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3248  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil penyadapan tcpdump tampak <br></p><p>18:21:49.023648 IP (tos 0x0, ttl 64, id 49186, offset 0, flags [none], proto UDP (17), length 328)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 300, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Discover<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br>18:21:49.027083 IP (tos 0x0, ttl 64, id 43784, offset 0, flags [none], proto UDP (17), length 339)<br>&nbsp;&nbsp;&nbsp; 0.0.0.0.bootpc &gt; 255.255.255.255.bootps: BOOTP/DHCP, Request from 8c:77:16:8f:84:ad (oui Unknown), length 311, xid 0x92653515, Flags [none]<br>&nbsp;&nbsp;&nbsp; &nbsp; Client-Ethernet-Address 8c:77:16:8f:84:ad (oui Unknown)<br>&nbsp;&nbsp;&nbsp; &nbsp; Vendor-rfc1048 Extensions<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Magic Cookie 0x63825363<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; DHCP-Message Option 53, length 1: Request<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Requested-IP Option 50, length 4: 192.168.1.131<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Server-ID Option 54, length 4: 192.168.1.1<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; MSZ Option 57, length 2: 1500<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Vendor-Class Option 60, length 12: "dhcpcd-5.5.6"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Hostname Option 12, length 24: "android-5660ddd624116610"<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parameter-Request Option 55, length 9: <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Subnet-Mask, Static-Route, Default-Gateway, Domain-Name-Server<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Domain-Name, BR, Lease-Time, RN<br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB<br></p><p>Ini menunjukan:</p><ul><li>Dua buah paket</li><li>Paket pertama permohonan IP address DHCP dari sebuah HP android</li><li>Paket kedua jawaban IP address dari router 192.168.1.1</li><li>IP address untuk android 192.168.1.131<br></li></ul>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3252  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing RIP</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Routing Information Protocol (RIP) adalah sebuah protokol routing dinamis yang digunakan terutama pada jaringan LAN.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3253  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing RIP</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Protokol RIP menggunakan algoritma routing distance-vector</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 3254  -->
+  <question type="truefalse">
+    <name>
+      <text>Routing RIP</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Pada protokol RIP hop count tidak dapat melebihi 15, dalam kasus jika melebihi akan dianggap tidak sah.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

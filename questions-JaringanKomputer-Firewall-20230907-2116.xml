@@ -1,0 +1,2092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/TEKNIK NETWORK SECURITY</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/TEKNIK NETWORK SECURITY/FIREWALL</text>
+    </category>
+    <info format="html">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Jaringan Komputer/TEKNIK NETWORK SECURITY/FIREWALL/Firewall</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 1654  -->
+  <question type="multichoice">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil monitoring tcpdump terlihat paket yang membuat masalah adalah</p><p>17:13:01.524452 IP (tos 0x0, ttl 64, id 88, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp; 192.168.0.23.37703 &gt; 192.168.0.57.http: Flags [.], cksum 0xe8e2 (correct), seq 0, ack 234577, win 6224, options [nop,nop,TS val 290348821 e<br>cr 48803361], length 0<br></p><p>Agar kita bisa memblokir semua traffic paket dari IP address tersebut, maka perintah firewall yang perlu digunakan adalah<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.23 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -F<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -L<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1655  -->
+  <question type="multichoice">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil monitoring tcpdump paket yang bermasalah adalah</p><p>17:18:14.507962 IP (tos 0x0, ttl 64, id 51338, offset 0, flags [DF], proto TCP (6), length 1500)<br>&nbsp;&nbsp;&nbsp; 192.168.0.57.http &gt; 192.168.0.23.37725: Flags [.], cksum 0x5087 (correct), seq 182448:183896, ack 1, win 578, options [nop,nop,TS val 48881<br>611 ecr 290427069], length 1448<br></p><p>Agar komputer / server kita tidak dapat mengirimkan paket ke komputer tujuan, maka perintah firewall yang perlu di tulis adalah<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.23 -j REJECT</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.57 -j REJECT</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.57 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1656  -->
+  <question type="multichoice">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil monitoring tcpdump terlihat paket yang membuat masalah adalah</p><p>17:13:01.524452 IP (tos 0x0, ttl 64, id 88, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp; 192.168.0.23.37703 &gt; 192.168.0.57.http: Flags [.], cksum 0xe8e2 (correct), seq 0, ack 234577, win 6224, options [nop,nop,TS val 290348821 e<br>cr 48803361], length 0<br></p><p>Agar kita bisa memblokir semua traffic paket dari IP address tersebut, maka perintah firewall yang perlu digunakan adalah<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.23 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -F<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -L<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1657  -->
+  <question type="multichoice">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Hasil monitoring tcpdump paket yang bermasalah adalah</p><p>17:18:14.507962 IP (tos 0x0, ttl 64, id 51338, offset 0, flags [DF], proto TCP (6), length 1500)<br>&nbsp;&nbsp;&nbsp; 192.168.0.57.http &gt; 192.168.0.23.37725: Flags [.], cksum 0x5087 (correct), seq 182448:183896, ack 1, win 578, options [nop,nop,TS val 48881<br>611 ecr 290427069], length 1448<br></p><p>Agar komputer / server kita tidak dapat mengirimkan paket ke komputer tujuan, maka perintah firewall yang perlu di tulis adalah<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.23 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.23 -j REJECT</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.23 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -s 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.57 -j REJECT</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I OUTPUT -d 192.168.0.57 -j DROP<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -d 192.168.0.57 -j REJECT<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>iptables -I INPUT -s 192.168.0.57 -j DROP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1658  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -s 192.168.10.220 -j REJECT<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1659  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -d 192.168.10.220 -j REJECT<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1660  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -d 192.168.10.220 -j DROP<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1661  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -L</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1662  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -h</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1663  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -n</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1664  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menghapus semua isi / konfigurasi Firewall adalah</p>
+<p>iptables -F</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1665  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menghapus semua isi / konfigurasi Firewall adalah</p>
+<p>iptables -L</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1666  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah sederhana berikut</p>
+<p>iptables -I INPUT -d 202.123.123.123 -j DROP</p>
+<p>akan menyebabkan paket yang ditujukan ke 202.123.123.123 akan di buang / di drop</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1667  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah sederhana berikut</p>
+<p>iptables -I INPUT -d 202.123.123.123 -j DROP</p>
+<p>akan menyebabkan paket yang ditujukan ke 202.123.123.1 akan di buang / di drop</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1668  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport ssh -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1669  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1670  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 110 -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1671  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 110 -j ACCEPT
+<br />mengijinkan pengguna untuk mengambil e-mail menggunakan protokol POP3</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1672  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+<br />mengijinkan pengguna untuk mengambil e-mail menggunakan protokol POP3</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1673  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+<br />mengijinkan pengguna untuk mengakses web server</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1674  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Perintah berikut<br /><br />sudo iptables -A INPUT -j DROP<br /><br />akan membuang paket yang akan masuk ke komputer</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1675  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Perintah berikut<br /><br />sudo iptables -A INPUT -j ACCEPT<br /><br />akan membuang paket yang akan masuk ke komputer</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1676  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -F
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1677  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -F
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1678  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -L
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1679  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<p>iptables -A INPUT -s 167.205.123.123 -j DROP<br /><br /></p>
+<p>akan membuang semua paket yang masuk dari IP address 167.205.123.123</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1680  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<p>iptables -A INPUT -s 167.205.123.123 -j ACCEPT<br /><br /></p>
+<p>akan membuang semua paket yang masuk dari IP address 167.205.123.123</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1681  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp; 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -s 192.168.10.220 -j DROP<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1682  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -s 192.168.10.220 -j REJECT<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1683  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -d 192.168.10.220 -j REJECT<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1684  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp;
+ 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 
+0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 
+1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -d 192.168.10.220 -j DROP<br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1685  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -L</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1686  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -h</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1687  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk melihat isi / konfigurasi Firewall di Linux adalah</p>
+<p>iptables -n</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1688  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 81 -j ACCEPT
+<br />mengijinkan pengguna untuk mengakses web server</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1689  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menghapus semua isi / konfigurasi Firewall adalah</p>
+<p>iptables -F</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1690  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah untuk menghapus semua isi / konfigurasi Firewall adalah</p>
+<p>iptables -L</p>
+<p> </p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1691  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah sederhana berikut</p>
+<p>iptables -I INPUT -d 202.123.123.123 -j DROP</p>
+<p>akan menyebabkan paket yang ditujukan ke 202.123.123.123 akan di buang / di drop</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1692  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah sederhana berikut</p>
+<p>iptables -I INPUT -d 202.123.123.123 -j DROP</p>
+<p>akan menyebabkan paket yang ditujukan ke 202.123.123.1 akan di buang / di drop</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1693  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport ssh -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1694  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1695  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 110 -j ACCEPT
+<br />mengijinkan hubungan ssh dapat di terima</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1696  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 110 -j ACCEPT
+<br />mengijinkan pengguna untuk mengambil e-mail menggunakan protokol POP3</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1697  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+<br />mengijinkan pengguna untuk mengambil e-mail menggunakan protokol POP3</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1698  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut pada firewall</p>
+<pre> sudo iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+<br />mengijinkan pengguna untuk mengakses web server</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1699  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Perintah berikut<br /><br />sudo iptables -A INPUT -j DROP<br /><br />akan membuang paket yang akan masuk ke komputer</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1700  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<pre>Perintah berikut<br /><br />sudo iptables -A INPUT -j ACCEPT<br /><br />akan membuang paket yang akan masuk ke komputer</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1701  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -F
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1702  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -F
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1703  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<pre>sudo iptables -L
+<br />akan membuang semua aturan firewall yang pernah kita buat</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1704  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<p>iptables -A INPUT -s 167.205.123.123 -j DROP<br /><br /></p>
+<p>akan membuang semua paket yang masuk dari IP address 167.205.123.123</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1705  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Perintah berikut</p>
+<p>iptables -A INPUT -s 167.205.123.123 -j ACCEPT<br /><br /></p>
+<p>akan membuang semua paket yang masuk dari IP address 167.205.123.123</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1706  -->
+  <question type="truefalse">
+    <name>
+      <text>Firewall</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Dari hasil pantauan tcpdump terdapat komunikasi<br><br>10:47:29.115113 IP (tos 0x0, ttl 64, id 9474, offset 0, flags [DF], proto TCP (6), length 52)<br>&nbsp;&nbsp;&nbsp; 192.168.10.220.58394 &gt; sa-in-f157.1e100.net.http: Flags [.], cksum 0x5dc2 (correct), ack 1, win 1444, options [nop,nop,TS val 17440 ecr 1402524547], length 0<br><br>Maka, untuk memblokir komputer sumber agar tidak dapat mengirimkan paket ke tujuan kita dapat&nbsp; menggunakan perintah<br><br>&nbsp;iptables -I INPUT -s 192.168.10.220 -j DROP<br>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1707  -->
+  <question type="truefalse">
+    <name>
+      <text>iptables</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Jika kita ingin membersihkan semua rule iptables &amp; ip6tables dan membuat semua paket dapat di accept
+</p>
+<pre>iptables -F
+ip6tables -F
+iptables -P INPUT ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -P FORWARD ACCEPT
+ip6tables -P INPUT ACCEPT
+ip6tables -P OUTPUT ACCEPT
+ip6tables -P FORWARD ACCEPT
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1708  -->
+  <question type="truefalse">
+    <name>
+      <text>iptables</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Jika kita ingin membersihkan semua rule iptables &amp; ip6tables dan membuat semua paket dapat di accept
+</p>
+<pre>iptables -F
+ip6tables -F
+iptables -A INPUT ACCEPT
+iptables -A OUTPUT ACCEPT
+iptables -A FORWARD ACCEPT
+ip6tables -A INPUT ACCEPT
+ip6tables -A OUTPUT ACCEPT
+ip6tables -A FORWARD ACCEPT
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1709  -->
+  <question type="truefalse">
+    <name>
+      <text>iptables</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Jika kita ingin membersihkan semua rule iptables &amp; ip6tables dan membuat semua paket dapat di accept
+</p>
+<pre>iptables -F
+ip6tables -F
+iptables -P INPUT ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -P FORWARD ACCEPT
+ip6tables -P INPUT ACCEPT
+ip6tables -P OUTPUT ACCEPT
+ip6tables -P FORWARD ACCEPT
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 1710  -->
+  <question type="truefalse">
+    <name>
+      <text>iptables</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Jika kita ingin membersihkan semua rule iptables &amp; ip6tables dan membuat semua paket dapat di accept
+</p>
+<pre>iptables -F
+ip6tables -F
+iptables -A INPUT ACCEPT
+iptables -A OUTPUT ACCEPT
+iptables -A FORWARD ACCEPT
+ip6tables -A INPUT ACCEPT
+ip6tables -A OUTPUT ACCEPT
+ip6tables -A FORWARD ACCEPT
+</pre>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

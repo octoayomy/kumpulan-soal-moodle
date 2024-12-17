@@ -1,0 +1,3054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/top/PAI XI</text>
+
+    </category>
+  </question>
+
+<!-- question: 6001  -->
+  <question type="essay">
+    <name>
+      <text>Jelaskan pengertian Riba</text>
+    </name>
+    <questiontext format="html">
+      <text>Jelaskan pengertian Riba</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>1</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6002  -->
+  <question type="essay">
+    <name>
+      <text>Rasul memiliki 4 sifat wajib. berilah contoh ril seorang pedagang dalam ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Rasul memiliki 4 sifat wajib. berilah contoh ril seorang pedagang dalam mengimani 4 sifat wajib tersebut.</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>1</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 6000  -->
+  <question type="essay">
+    <name>
+      <text>Sebutkan Macam-macam muamalah</text>
+    </name>
+    <questiontext format="html">
+      <text>Sebutkan Macam-macam muamalah</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>2</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 5999  -->
+  <question type="essay">
+    <name>
+      <text>Sebutkan Rukun Jual Beli!</text>
+    </name>
+    <questiontext format="html">
+      <text>Sebutkan Rukun Jual Beli!</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>1</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 5998  -->
+  <question type="essay">
+    <name>
+      <text>Tulislah secara singkat urutan dalam pengurusan jenazah</text>
+    </name>
+    <questiontext format="html">
+      <text>Tulislah secara singkat urutan dalam pengurusan jenazah</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <responseformat>editor</responseformat>
+    <responserequired>1</responserequired>
+    <responsefieldlines>15</responsefieldlines>
+    <attachments>0</attachments>
+    <attachmentsrequired>0</attachmentsrequired>
+    <graderinfo format="html">
+      <text>1</text>
+    </graderinfo>
+    <responsetemplate format="html">
+      <text></text>
+    </responsetemplate>
+  </question>
+
+<!-- question: 5995  -->
+  <question type="multichoice">
+    <name>
+      <text>Anton merental mobil kepada Andi selama satu hari untuk kegiatan luar kota. ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Anton merental mobil kepada Andi selama satu hari untuk kegiatan luar kota. Sebagai imbalan rental Anton membayar sesuai dengan kesepakatan sebesar 500.000. Dalam Islam transaksi tersebut dinamakan dengan .....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ijarah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>khiyar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mudarabah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>musaqah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mukhabarah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5966  -->
+  <question type="multichoice">
+    <name>
+      <text>Arti dari potongan Q.S An-nisa'/4:59 adalah .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Arti dari potongan Q.S An-nisa'/4:59 </span><img width="113" height="38" align="bottom" alt="mc019-1.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc019-1.jpg" border="0"><span style="font-family:'Calibri'">adalah .....</span>]]></text>
+<file name="ppg__examview__PAI_XI__mc019-1.jpg" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Penguasa pimpinan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Orang-orang yang beriman</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Lebih utama</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Jika kamu berbeda pendapat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">kepada Allah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5991  -->
+  <question type="multichoice">
+    <name>
+      <text>Bank Islam dalam memutarkan uang kepada pihak lain dengan perhitungan laba ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Bank Islam dalam memutarkan uang kepada pihak lain dengan perhitungan laba atas dasar .....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>suka sama suka</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>modal peserta</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>bagi hasil</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>sistem bunga</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>tolong-menolong</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5984  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Berpidato di atas mimbar di hadapan para jama?&quot;ah sesuai dengan sarat dan ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berpidato di atas mimbar di hadapan para jama?&quot;ah sesuai dengan sarat dan rukun tertentu disebut..</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Khotbah </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tablig</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Ceramah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sarasehan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Dakwah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5986  -->
+  <question type="multichoice">
+    <name>
+      <text>Cara melakukan amar makruf nahi munkar yang paling baik adalah....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Cara melakukan amar makruf nahi munkar yang paling baik adalah.... </span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Diskusi dalam dialog keagamaan </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sweeping tempat-tempat maksiat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Acuh dan cek terhadap pelaku maksiat </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Berdakwah dengan arif dan bijaksana</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menghujat pelaku maksiat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5958  -->
+  <question type="multichoice">
+    <name>
+      <text>Contoh bentuk keberanian yang muncul dari hati dan jiwa yang kuat adalah .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Contoh bentuk keberanian yang muncul dari hati dan jiwa yang kuat adalah .....<br></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengendalikan diri dari (hawa nafsu) ketika marah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">melawan orang yang memusuhi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">diam saja ketika ada yang memusuhi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengendalikan diri dari barang-barang mewah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">membela teman saat dimusuhi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5994  -->
+  <question type="multichoice">
+    <name>
+      <text>Dalam jula beli ada kebebasan untuk membatalkan atau meneruskan jual-beli, ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Dalam jula beli ada kebebasan untuk membatalkan atau meneruskan jual-beli, dalam Islam pilihan tersebut disebut dengan .....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ijarah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>khiyar</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mudarabah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>musaqah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>mukhabarah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5948  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini termasuk rukun jual beli dalam islam kecuali .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Dibawah ini termasuk rukun jual beli dalam islam kecuali .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">adanya penjual dan pembeli</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">barang yang dibeli</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">manfaat barang</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">tempat jual beli</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">ijab qabul</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5954  -->
+  <question type="multichoice">
+    <name>
+      <text>Di bawah ini yang bukan para rasul-rasul yang diutus Allah SWT. Kepada ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Di bawah ini yang bukan para rasul-rasul yang diutus Allah SWT. Kepada golongan bani israil adalah nabi .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Idris a.s </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Musa a.s </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Yusuf a.s</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ya'kub a.s</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Sulaiman a.s</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5972  -->
+  <question type="multichoice">
+    <name>
+      <text>Dibawah ini yang tidak termasuk perilaku berlomba-lomba dalam kebaikan adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Dibawah ini yang tidak termasuk perilaku berlomba-lomba dalam kebaikan adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Suka membantu tetangga yang sedang kesusahan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengusir pengemis yang datang ke rumah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">semangat salat berjamaah di masjid</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">menolak jika di ajak bolos temannya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">melaksanakan kewajiban di sekolah dengan sungguh-sungguh</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5979  -->
+  <question type="multichoice">
+    <name>
+      <text>Hukum mengurus jenazah,yaitu ....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hukum mengurus jenazah,yaitu ....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sunah muakkad</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Wajib kifayah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Makruh</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Wajib ain </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mubah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5964  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Kata yang artinya &quot;Lebih Baik&quot; yang tertulis di dalam Q.S An-nisa'/4:59, ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kata yang artinya &quot;Lebih Baik&quot; yang tertulis di dalam Q.S An-nisa'/4:59, adalah terjemaahan dari kata .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<img width="116" height="47" align="bottom" alt="mc017-1.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc017-1.jpg" border="0">]]></text>
+<file name="ppg__examview__PAI_XI__mc017-1.jpg" path="/" encoding="base64">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</file>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<img width="119" height="43" align="bottom" alt="mc017-2.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc017-2.jpg" border="0">]]></text>
+<file name="ppg__examview__PAI_XI__mc017-2.jpg" path="/" encoding="base64">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</file>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<img width="98" height="42" align="bottom" alt="mc017-3.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc017-3.jpg" border="0">]]></text>
+<file name="ppg__examview__PAI_XI__mc017-3.jpg" path="/" encoding="base64">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</file>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<img width="63" height="39" align="bottom" alt="mc017-4.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc017-4.jpg" border="0">]]></text>
+<file name="ppg__examview__PAI_XI__mc017-4.jpg" path="/" encoding="base64">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</file>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<img width="86" height="47" align="bottom" alt="mc017-5.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc017-5.jpg" border="0">]]></text>
+<file name="ppg__examview__PAI_XI__mc017-5.jpg" path="/" encoding="base64">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</file>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5952  -->
+  <question type="multichoice">
+    <name>
+      <text>Ketika jenazah sudah dimandikan dan dikafani, proses selanjutnya adalah ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ketika jenazah sudah dimandikan dan dikafani, proses selanjutnya adalah menyalatkan jenazah. Ketentuan dalam menyalatkan jenazah laki-laki, posisi imam adalah berdiri .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">searah punggung</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">di tengah-tengah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">searah atas pinggul</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">sejajar dengan kepala</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">sejajar dengan perut</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5976  -->
+  <question type="multichoice">
+    <name>
+      <text>Ketika melaksanakan shalat jenazah,setelah takbir pertama membaca....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Ketika melaksanakan shalat jenazah,setelah takbir pertama membaca.... </span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Surah Al-Nas</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Surah Al-Ikhlas </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Surah Al-Ikhlas </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Surah-Al-fatihah </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Sholawat</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5965  -->
+  <question type="multichoice">
+    <name>
+      <text>Kewajiban muslim terhadap Al-Qur'an antara lain adalah memahami isi ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kewajiban muslim terhadap Al-Qur'an antara lain adalah memahami isi kandungannya. Pada potongan surah An-nisa' ayat 59 ini terdapat kalimat </span><span style="font-size:16pt">ÊóäóÇ</span><span style="font-family:'Calibri'"> hukum bacaannya adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mad thabi'i</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Izhar syafawi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ikhfa syafawi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Idgam bigunnah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Idgam bilagunnah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5973  -->
+  <question type="multichoice">
+    <name>
+      <text>Kewajiban orang yang hidup terhadap orang yang meninggal ada............Syarat</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kewajiban orang yang hidup terhadap orang yang meninggal ada............Syarat </span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">6</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">5</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>4</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5959  -->
+  <question type="multichoice">
+    <name>
+      <text>Kitab injil diturunkan Allah SWT. pada nabi .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kitab injil diturunkan Allah SWT. pada nabi .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Musa a.s </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Isa a.s </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Nuh a.s</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Yahya a.s</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Muhammad saw.</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5961  -->
+  <question type="multichoice">
+    <name>
+      <text>Malam diturunkannya Al-Qur'an dinamakan malam .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Malam diturunkannya Al-Qur'an dinamakan malam .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Khotmil Qur'an </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Asbabun Nuzul </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Nuzulul Qur'an </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Al-Qur'anul Karim</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Lailatul Qodar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5996  -->
+  <question type="multichoice">
+    <name>
+      <text>Menjual Padi yang masih hijau (Belum tua) termasuk jual beli yang dilarang, ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Menjual Padi yang masih hijau (Belum tua) termasuk jual beli yang dilarang, karena jual beli seperti ini dapat merugikan ....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>tengkulak</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>orang lain</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>penjual</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>pembeli</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>penjual dan pembeli</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5975  -->
+  <question type="multichoice">
+    <name>
+      <text>Muhammadiyah berdiri di Yogyakarta pada tahun...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Muhammadiyah berdiri di Yogyakarta pada tahun...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1930</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1912 </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1911</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1910</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">1908</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5970  -->
+  <question type="multichoice">
+    <name>
+      <text>Mukhabarah adalah pelayanan ekonomi dibidang</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Mukhabarah adalah pelayanan ekonomi dibidang </span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">perbengkelan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">pertanian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">pertukangan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">pelayanan jasa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">perindustrian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5967  -->
+  <question type="multichoice">
+    <name>
+      <text>Nabi Muhammad saw. sebagai khatamunnabiyyin, arti kata khatamunnabiyyin ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Nabi Muhammad saw. sebagai khatamunnabiyyin, arti kata khatamunnabiyyin adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Penutup para malaikat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Penutup para penghulu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Penutup untuk para nabi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Utusan terakhir</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Utusan untuk seluruh umat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5987  -->
+  <question type="multichoice">
+    <name>
+      <text>Orang tua yang harus dihormati terlebih dahulu adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Orang tua yang harus dihormati terlebih dahulu adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Nenek </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kakek </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Bapak</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Ibu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Paman</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5951  -->
+  <question type="multichoice">
+    <name>
+      <text>Para nabi dan rasul memiliki tugas .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Para nabi dan rasul memiliki tugas .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kholilullah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Khalifah Allah </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Khodimullah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Khodimunnas</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Khodimul malaikat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5956  -->
+  <question type="multichoice">
+    <name>
+      <text>Para rasul yang mempunyai keteguhan hati dan ketabahan yang sangat tinggi ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Para rasul yang mempunyai keteguhan hati dan ketabahan yang sangat tinggi disebut .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ulul azmi </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ulul kitab </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ali-imran</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ahlu kitab</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ulul ilmi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5949  -->
+  <question type="multichoice">
+    <name>
+      <text>Pentingnya menutup aurat menjadi prinsip hidup setiap muslim, bahkan sampai ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Pentingnya menutup aurat menjadi prinsip hidup setiap muslim, bahkan sampai seseorang meninggal. Ketentuan jumlah kain kafan untuk jenazah laki-laki adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">dua lapis </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">tiga lapis </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">empat lapis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">lima lapis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">enam lapis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5981  -->
+  <question type="multichoice">
+    <name>
+      <text>Perbuatan dosa besar bisa dihindari dengan cara...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Perbuatan dosa besar bisa dihindari dengan cara...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sering bermain </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">sering berjiarah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">sering mengingat Allah dimana saja&nbsp; berada </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">banyak belajar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">banyak baca majalah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5980  -->
+  <question type="multichoice">
+    <name>
+      <text>Perbuatan menyekutukan ALLAH Swt dengan sesuatu di sebut...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Perbuatan menyekutukan ALLAH Swt dengan sesuatu di sebut...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mandub</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Riddah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Syirik</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Nifak</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Insyaf</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5982  -->
+  <question type="multichoice">
+    <name>
+      <text>Perbuatan Zina merupakan perbuatan yang sangat dilarang oleh agama ,disamping...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Perbuatan Zina merupakan perbuatan yang sangat dilarang oleh agama ,disamping sangat tercela dan dosanya Sangat besar, Zina terbagi dua yaitu..</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Zina tangan dan kaki</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Zina muhsan dan ghoiru muhsan </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Zina hati dan pikiraan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Zina mulut dan bibir</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Zina mata dan hidung</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5962  -->
+  <question type="multichoice">
+    <name>
+      <text>Perhatikan ayat berikut!Kaliamat tersebut artinya .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Perhatikan ayat berikut!<br></span><img width="317" height="56" align="bottom" alt="mc015-1.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc015-1.jpg" border="0"><br><span style="font-family:'Calibri'">Kaliamat tersebut artinya ..... </span>]]></text>
+<file name="ppg__examview__PAI_XI__mc015-1.jpg" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">berdoalah kepada-Nya dengan penuh harap</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">dan janganlah kamu berbuat kerusakan di bumi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">sesungguhnya rahmat Allah sangat dekat<br></span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">dia meniupkan angin pembawa kabar gembira</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">kami tumbuhkan berbagai macam buah-buahan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5953  -->
+  <question type="multichoice">
+    <name>
+      <text>Perintah beriman kepada rasul Allah terdapat dalam surah .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Perintah beriman kepada rasul Allah terdapat dalam surah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">An-Nisa : 2-4</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">An-Nisa : 136</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Al-Baqarah : 7-8</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Al-Baqarah : 190-191</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Al-Baqarah : 285</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5985  -->
+  <question type="multichoice">
+    <name>
+      <text>Persamaan antara khotbah, tablig, dan dakwah adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Persamaan antara khotbah, tablig, dan dakwah adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sama-sama untuk memperoleh penghasilan </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sama-sama bentuk amar makruf nahi munkar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sama-sama mendorong menjadi manusia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sama-sama untuk menambah persaudaraan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sama-sama membekali kaum dhuafa terhormat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5992  -->
+  <question type="multichoice">
+    <name>
+      <text>Persetujuan antara dua orang atau lebih untuk membuka perusahaan dengan ...</text>
+    </name>
+    <questiontext format="html">
+      <text>Persetujuan antara dua orang atau lebih untuk membuka perusahaan dengan tujuan membagi keuntungan disebut ....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>syirkah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>maisyir</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>qirad</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>musaqah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>muzara'ah</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5957  -->
+  <question type="multichoice">
+    <name>
+      <text>Prinsip yang harus dipegang oleh orang-orang yang menjalankan syirkah sesuai ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Prinsip yang harus dipegang oleh orang-orang yang menjalankan syirkah sesuai dengan hadits qudsi adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">kerja sama sesuai perjanjian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">saling berbagi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">saling menguntungkan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">saling percaya<br></span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">saling suka</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5997  -->
+  <question type="multichoice">
+    <name>
+      <text>Rasul itu diutud Allah swt dengan tugas-tugas sebagai berikut kecuali ....</text>
+    </name>
+    <questiontext format="html">
+      <text>Rasul itu diutud Allah swt dengan tugas-tugas sebagai berikut kecuali ....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>memberi kabar gembira</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>memberi peringatan</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>memberi rezeki</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>membawa kebenaran</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>memberi keteladanan</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5988  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA["Rida Allah Swt ada pada pada rida orang tua ,dan murkanya Allah ada pada ...]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">"Rida Allah Swt ada pada pada rida orang tua ,dan murkanya Allah ada pada murka orang tua" maksud hadist tersebut adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kalau ingin mendapatkan rida orang tua harus taat kepada Allah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kalau ingin masuk surga ,ciumlah kaki ibu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kalau ingin dicintai Allah ,jauhilah orang tua</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kalau ingin mendapat rida Allah hormati orang tua</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Kalau ingin mendapat murka Allah sayangi orang tua</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5983  -->
+  <question type="multichoice">
+    <name>
+      <text>Salah satu akibat negatif meminum minuman keras adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Salah satu akibat negatif meminum minuman keras adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Badan menjadi hangat </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Badan terasa nyaman</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Rusaknya organ syaraf</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Banyak teman</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membuat seseorang bahagia</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5993  -->
+  <question type="multichoice">
+    <name>
+      <text>Salah satu ciri khas bank Islam adalah .....</text>
+    </name>
+    <questiontext format="html">
+      <text>Salah satu ciri khas bank Islam adalah .....</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>tempat tukar-menukar uang</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>tempat yang aman untuk menyimpan uang</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>pengendalian inflasi</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>menghilangkan sistem riba</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>memberikan kredit kepada masyarakat</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5978  -->
+  <question type="multichoice">
+    <name>
+      <text>Salat jenazah berbeda dengan salat lainnya.Dalam salat jenazah kita tidak ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Salat jenazah berbeda dengan salat lainnya.Dalam salat jenazah kita tidak melakukan....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Doa</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sujud</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">salam</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">niat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Takbiratul ihram</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5977  -->
+  <question type="multichoice">
+    <name>
+      <text>Sebelum jenazah dikuburkan,hendaklah selesaikan yang utama adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sebelum jenazah dikuburkan,hendaklah selesaikan yang utama adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Waris</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">pembagian rumah </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membayar hutang</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">pembagian harta</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">ibah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5955  -->
+  <question type="multichoice">
+    <name>
+      <text>Secara etimologis, kata Syaja'ah berarti .....</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Secara etimologis, kata Syaja'ah berarti .....<br></span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kepatuhan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Keberanian </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kepasrahan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Kekuatan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ketaatan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5969  -->
+  <question type="multichoice">
+    <name>
+      <text>Selain orang tua, ada lagi sosok yang harus dihormati, yaitu guru. Berikut ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Selain orang tua, ada lagi sosok yang harus dihormati, yaitu guru. Berikut salah satu cara menghormati guru adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengikuti semua kemauannya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengingatkan nya ketika berbuat salah</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">menanyakan sesuatu yang sudah difahami</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">jika terjadi perbedaan maka harus didebat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">memberikan salam ketika bertemu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5971  -->
+  <question type="multichoice">
+    <name>
+      <text>Sempurna nya isi kandungan al-qur'an dapat dikaji dari tuntunannya terkait ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Sempurna nya isi kandungan al-qur'an dapat dikaji dari tuntunannya terkait kewajiban anak kepada kedua orang tuanya. Maksud kalimat <img width="183" height="40" align="bottom" alt="mc024-1.jpg" src="@@PLUGINFILE@@/ppg__examview__PAI_XI__mc024-1.jpg" border="0"></span> <span style="font-family:'Calibri'">dalam Q.S Al-Isra'/17:23 adalah perintah .....</span>]]></text>
+<file name="ppg__examview__PAI_XI__mc024-1.jpg" path="/" encoding="base64">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</file>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">berbuat baik kepada guru</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">memuliakan orang tua ketika sudah lanjut</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">berkata santun kepada kedua orang tua</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">memuliakan sosok seorang guru</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">untuk selalu taat kepada orang tua<br></span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5990  -->
+  <question type="multichoice">
+    <name>
+      <text>Sering seseorang siswa membeda-bedakan fungsi antara orang tua dan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Sering seseorang siswa membeda-bedakan fungsi antara orang tua dan guru,padahal fungsi keduanya hampir sama .Di bawah ini adalah fungsi orang tua dan guru yang sama,kecuali...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mendidik dan mengajari </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Membina dan merawat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Merawat sehingga ia mandiri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Memberi makan untuk pertumbuhan </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menjadi tempat mengadu</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5968  -->
+  <question type="multichoice">
+    <name>
+      <text>Setiap yang bernyawa pasti akan mati. Ketika ada yang meninggal dunia kita ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Setiap yang bernyawa pasti akan mati. Ketika ada yang meninggal dunia kita sebaiknya melakukan ziarah kubur. Berikut yang bukan tujuan ziarah kubur adalah .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">dapat melihat kubur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mendo'akan ahli kubur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">membersihakan kubur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mengingat kematian</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">menghibur mayat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5950  -->
+  <question type="multichoice">
+    <name>
+      <text>Tanda-anda orang yang beriman kepada rasul Allah swt., sebagaimana disebutkan...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Tanda-anda orang yang beriman kepada rasul Allah swt., sebagaimana disebutkan dalam Al-Qur'an ‘'wayukimunas sholata'' maksudnya ialah ....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Selalu mengerjakan shalat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Hatinya selalu optimis</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Hatinya tulus dan tanggung jawab</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Hatinya yakin dengan adanya yang gaib</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Hatinya selalu suci dan bersih</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5963  -->
+  <question type="multichoice">
+    <name>
+      <text>Ta'ziyah merupakan kegiatan mengunjungi keluarga jenazah yang baru ditinggal ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Ta'ziyah merupakan kegiatan mengunjungi keluarga jenazah yang baru ditinggal wafat. Pertanyaan dibawah ini bukan merupakan tujuannya .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">memberikan bantuan moril dan material</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">menghibur dan memberikan nasihat agar sabar</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">mendo'akan yang meninggal agar diampuni</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">untuk menjaga hubungan pertemanan<br></span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">sebagai pelajaran bagi diri sendiri</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5974  -->
+  <question type="multichoice">
+    <name>
+      <text>Tokoh pendiri organisasi kemasyarakatan Nahdatul Ulama adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Tokoh pendiri organisasi kemasyarakatan Nahdatul Ulama adalah... </span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Gusdur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hamka</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hasyim Al Asyari </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">A. Hasan</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Hasyim Mujadi</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5960  -->
+  <question type="multichoice">
+    <name>
+      <text>Wahyu yang Allah turunkan berupa lembaran-lembaran kepada nabi ibrahim dan ...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Wahyu yang Allah turunkan berupa lembaran-lembaran kepada nabi ibrahim dan nabi musa bernama .....</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Al-Qur'an </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Suhuf</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Injil</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Taurat</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-family:'Calibri'">Zabur</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5989  -->
+  <question type="multichoice">
+    <name>
+      <text>Yang termasuk cara berbakti kepada orang tua dan guru adalah...</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span style="font-size:12pt">Yang termasuk cara berbakti kepada orang tua dan guru adalah...</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Selalu meminta mendapatnya </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Menceritakan keburukannya </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Mendengarkan nasehatnya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Meminta agar keduanya memberi hadiyah </span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<span style="font-size:12pt">Meminta agar keduanya selalu membimbingnya</span>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
